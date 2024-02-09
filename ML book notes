@@ -1,1 +1,3 @@
-N
+After you're done with downloading the data and stuff the first thing is to skim it using .head()
+Then check it with info() to know more about it
+One more important step is to select your performace measure.
